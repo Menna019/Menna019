@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Menna ElBorlossy<br><br>💻I'm a computer technology student<br/><br>📱I build a lot of Mobile apps with Flutter(Dart)<br/><br>👩🏻‍💻UI/UX designer for Mobile and Web, my designs on [Behance](https://www.behance.net/mennaelborlossy)
+## Hi, I'm Menna ElBorlossy<br><br>💻I'm a computer technology student<br/><br>📱I built a lot of Mobile apps with Flutter(Dart)<br/><br>👩🏻‍💻UI/UX designer for Mobile apps & Graphic Designer, my designs on [Behance](https://www.behance.net/mennaelborlossy)
 
 
 ## 🌐 Socials:
